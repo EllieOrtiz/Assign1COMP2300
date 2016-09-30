@@ -1,0 +1,14 @@
+C:\Users\Elizabeth\documents\visual studio 2012\Projects\Tarea1COMP2300\Tarea1COMP2300\bin\Debug\Tarea1COMP2300.exe
+C:\Users\Elizabeth\documents\visual studio 2012\Projects\Tarea1COMP2300\Tarea1COMP2300\bin\Debug\Tarea1COMP2300.pdb
+C:\Users\Elizabeth\documents\visual studio 2012\Projects\Tarea1COMP2300\Tarea1COMP2300\bin\Debug\Tarea1COMP2300.xml
+C:\Users\Elizabeth\documents\visual studio 2012\Projects\Tarea1COMP2300\Tarea1COMP2300\obj\Debug\Tarea1COMP2300.Form1.resources
+C:\Users\Elizabeth\documents\visual studio 2012\Projects\Tarea1COMP2300\Tarea1COMP2300\obj\Debug\Tarea1COMP2300.Forma_evaluacion.resources
+C:\Users\Elizabeth\documents\visual studio 2012\Projects\Tarea1COMP2300\Tarea1COMP2300\obj\Debug\Tarea1COMP2300.Resources.resources
+C:\Users\Elizabeth\documents\visual studio 2012\Projects\Tarea1COMP2300\Tarea1COMP2300\obj\Debug\Tarea1COMP2300.vbproj.GenerateResource.Cache
+C:\Users\Elizabeth\documents\visual studio 2012\Projects\Tarea1COMP2300\Tarea1COMP2300\obj\Debug\Tarea1COMP2300.exe
+C:\Users\Elizabeth\documents\visual studio 2012\Projects\Tarea1COMP2300\Tarea1COMP2300\obj\Debug\Tarea1COMP2300.xml
+C:\Users\Elizabeth\documents\visual studio 2012\Projects\Tarea1COMP2300\Tarea1COMP2300\obj\Debug\Tarea1COMP2300.pdb
+C:\Users\Elizabeth\documents\visual studio 2012\Projects\Tarea1COMP2300\Tarea1COMP2300\obj\Debug\Tarea1COMP2300.FormTopic.resources
+C:\Users\Elizabeth\documents\visual studio 2012\Projects\Tarea1COMP2300\Tarea1COMP2300\obj\Debug\Tarea1COMP2300.Form_Content.resources
+C:\Users\Elizabeth\documents\visual studio 2012\Projects\Tarea1COMP2300\Tarea1COMP2300\obj\Debug\Tarea1COMP2300.Form_ej.resources
+C:\Users\Elizabeth\Documents\Visual Studio 2012\Projects\Tarea1COMP2300\Tarea1COMP2300\obj\Debug\Tarea1COMP2300.vbprojResolveAssemblyReference.cache
